@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.signup{
+    max-width: 700px;
+    margin: 0 auto;
+    padding-top: 43px;
+
+    }
+.signup form{
+}
+.signup form input{
+	    display: block;
+    width: 40%;
+    padding: 8px 10px;
+    font-size: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #a0a0a0;
+}
+.signup form input[type="text"]{
+	    width: 18%;
+    display: inline-block;
+}
+.signup form input[type="radio"]{
+	width: auto;
+    display: inline-block;
+}
+.radio{
+	display: block;
+}
+.submit{
+	    margin-top: 20px;
+}
+.signup form input[type="submit"]{
+	    background: rgb(90, 169, 51);;
+    color: #fff;
+    border: 0px;
+    text-shadow: 2px 2px 5px #000;
+        border-radius: 5px;
+}
+
